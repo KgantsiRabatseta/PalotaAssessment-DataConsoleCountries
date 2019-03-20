@@ -109,6 +109,7 @@ namespace PalotaInterviewCS
 
     public class RegionalBloc
     {
+        
         [JsonProperty("acronym")]
         public string Acronym { get; set; }
 
